@@ -1,1 +1,1 @@
-# CodeAlpha-CreditScoring-Model
+# CodeAlpha Internship Tasks by Jompe Emmanuel Ayomiposi.
